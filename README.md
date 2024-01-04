@@ -2,9 +2,13 @@
 STYLE SPHERE: OFFLINE  STORES RECOMMENDATION
 
 **Dataset**: Shopping_Trend  
+
 **Dataset Link**: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
+
 **Power BI file** : Analysis.pbix
+
 **Excel File** : Analysis.xlxm
+
 **Report** : Report.pdf
 
 Based on dataset, hythothecial case created to analyse dataset. 
